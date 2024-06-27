@@ -3,7 +3,7 @@
   people from all walks of life.Competent in the use of Microsoft Office and able to present reports and make professional presentations. Now looking to join a growing company to build on 
   existing skills and knowledge.
 - 👀 Currently Study in L.D College of Engineering at I.C Stream
-- 🌱 I’m currently learning AI&ML Coding Skills in PYthon, Jupyter, C language, Java, Colab work etc.
+- 🌱 I’m currently learning AI&ML Coding Skills in Python, Jupyter, C language, Java, Colab, Arduino work etc.
 - Also I'm Top 10 Datathrone Finalist Project Student. AI-ML Project Guidances, Consultant for Career, Motivational, Multiple Company in Campus Ambassador, Networking Skill, Contributor
 - 💞️ I’m looking to collaborate on AI-ML IOT Robotics Role ...
 - 📫 You can reach me ...
